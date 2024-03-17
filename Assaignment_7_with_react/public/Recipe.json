@@ -1,0 +1,121 @@
+[
+  {
+    "recipe_id": "1",
+    "recipe_name": "Grilled Chicken Salad",
+    "short_description": "A healthy and delicious salad with grilled chicken",
+    "ingredients": [
+      "300g chicken breast",
+      "Mixed salad greens",
+      "Cherry tomatoes",
+      "Cucumber",
+      "Red onion",
+      "Balsamic vinaigrette"
+    ],
+    "preparing_time": "20 ",
+    "calories": 350,
+    "recipe_image": "https://i.ibb.co/gtXRYQH/Screenshot-1.jpg"
+  },
+  {
+    "recipe_id": "2",
+    "recipe_name": "Vegetable Stir-Fry",
+    "short_description": "A quick and easy stir-fry loaded with colorful vegetables",
+    "ingredients": [
+      "200g broccoli",
+      "150g carrots",
+      "100g bell peppers",
+      "150g snow peas",
+      "200g tofu",
+      "Soy sauce",
+      "Sesame oil"
+    ],
+    "preparing_time": "25 ",
+    "calories": 280,
+    "recipe_image": "https://i.ibb.co/k4K6XLw/Screenshot-2.jpg"
+  },
+  {
+    "recipe_id": "3",
+    "recipe_name": "Spaghetti Carbonara",
+    "short_description": "Classic Italian pasta dish with creamy sauce and crispy bacon",
+    "ingredients": [
+      "300g spaghetti",
+      "150g bacon",
+      "3 eggs",
+      "100g Parmesan cheese",
+      "Garlic",
+      "Salt",
+      "Black pepper"
+    ],
+    "preparing_time": "30 ",
+    "calories": 420,
+    "recipe_image": "https://i.ibb.co/tKQJk4b/Screenshot-3.jpg"
+  },
+  {
+    "recipe_id": "4",
+    "recipe_name": "Quinoa Salad",
+    "short_description": "A nutritious salad featuring quinoa, vegetables, and feta cheese",
+    "ingredients": [
+      "200g quinoa",
+      "Cucumber",
+      "Cherry tomatoes",
+      "Red bell pepper",
+      "Red onion",
+      "Feta cheese",
+      "Lemon juice",
+      "Olive oil"
+    ],
+    "preparing_time": "25 ",
+    "calories": 320,
+    "recipe_image": "https://i.ibb.co/wspHJH2/Screenshot-4.jpg"
+  },
+  {
+    "recipe_id": "5",
+    "recipe_name": "Grilled Salmon with Asparagus",
+    "short_description": "Healthy and flavorful grilled salmon served with roasted asparagus",
+    "ingredients": [
+      "2 salmon fillets",
+      "Asparagus spears",
+      "Olive oil",
+      "Lemon",
+      "Garlic",
+      "Salt",
+      "Black pepper"
+    ],
+    "preparing_time": "30 ",
+    "calories": 290,
+    "recipe_image": "https://i.ibb.co/R6th4N7/Screenshot-5.jpg"
+  },
+  {
+    "recipe_id": "6",
+    "recipe_name": "Chicken and Vegetable Stir-Fry",
+    "short_description": "A colorful and nutritious stir-fry with chicken and assorted vegetables",
+    "ingredients": [
+      "300g chicken breast",
+      "Broccoli florets",
+      "Bell peppers",
+      "Carrots",
+      "Snow peas",
+      "Soy sauce",
+      "Sesame oil"
+    ],
+    "preparing_time": "25 ",
+    "calories": 310,
+    "recipe_image": "https://i.ibb.co/zfQPw9d/Screenshot-6.jpg"
+  },
+  {
+    "recipe_id": "7",
+    "recipe_name": "Caprese Salad",
+    "short_description": "A simple and refreshing salad with tomatoes, mozzarella, and basil",
+    "ingredients": [
+      "Tomatoes",
+      "Fresh mozzarella cheese",
+      "Fresh basil leaves",
+      "Balsamic glaze",
+      "Olive oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "preparing_time": "15 ",
+    "calories": 250,
+    "recipe_image": "https://i.ibb.co/BPZF6sT/Screenshot-7.jpg"
+  }
+]
